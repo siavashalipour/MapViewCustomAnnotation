@@ -1,0 +1,6 @@
+framework module Pods_MapDesign {
+  umbrella header "Pods-MapDesign-umbrella.h"
+
+  export *
+  module * { export * }
+}
